@@ -1,0 +1,6 @@
+only return a book if the author matches the query
+this is to prevent the bot from returning books that are about an author
+
+reset random author after each click 
+
+include author in the message returned by bot

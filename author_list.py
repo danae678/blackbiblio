@@ -1,0 +1,17 @@
+myList = [
+    "maya angelou",
+    "james baldwin",
+    "bell hooks",
+    "toni morrison",
+    "zora neale hurston",
+    "ta-nehishi coates",
+    "alice walker",
+    "langston hughes",
+    "audre lorde",
+    "james mcbride",
+    "nikki giovanni",
+    "Chimamanda Ngozi Adichie",
+    "angie thomas",
+    "james mcbride",
+    "tressie mcmillan cottom",
+]
