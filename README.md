@@ -1,3 +1,3 @@
 # blackbiblio
 
-Slack bot to recommend books by Black authors
+Slack bot that recommends books by Black authors
